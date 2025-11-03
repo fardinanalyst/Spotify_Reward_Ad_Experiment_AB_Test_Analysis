@@ -1,0 +1,3 @@
+experiment_group,avg_ads_per_session,median_ads_per_session,count_sessions
+control,14.780329021137014,16.0,59753
+treatment,5.3801816818068176,4.0,59995

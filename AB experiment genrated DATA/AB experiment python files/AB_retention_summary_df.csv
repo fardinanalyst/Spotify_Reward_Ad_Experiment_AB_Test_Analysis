@@ -1,0 +1,3 @@
+experiment_group,days_since_signup,retained_users,total_users,retention_rate
+control,7,3533,10000,0.3533
+treatment,7,3512,10000,0.3512

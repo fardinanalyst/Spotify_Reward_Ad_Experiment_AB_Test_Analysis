@@ -1,0 +1,3 @@
+experiment_group,total_tracks,total_skips,skip_rate
+control,4493327,68274,0.01519453180238162
+treatment,2764578,23564,0.008523543195380994
